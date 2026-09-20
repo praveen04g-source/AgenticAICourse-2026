@@ -1,0 +1,25 @@
+I1)n your own words, what is the difference between "training" a model and "inference"? Give one everyday example of each.
+
+Training: providing some data as input to train the model
+
+Inference:
+
+
+2)What does the "weight" in a neural network actually control? Use the decision-making analogy (e.g. choosing an apartment) to explain it.
+
+Ans : Weight is one of the parameter in the decision-making analogy. For apartment no of flats may be one paramenter
+3)What's the difference between an open-source model (like Llama or Qwen) and a closed model (like GPT or Claude) in terms of what you can and can't do with it?
+
+4)If a "free" model is downloadable and doesn't cost anything to use, why might running it still cost you money?
+
+GPUs we are using
+
+5)In the equation y = mx + b, what does the slope (m) tell you about the relationship between the input and the output?
+
+negative relationship for input and output
+
+Programming Questions
+
+1)Using the study_vs_perf dataset from class (Hours vs Performance), fit a LinearRegression model and predict the performance for someone who studies 20 hours. Print the predicted value.
+
+2)Load the load_wine dataset from sklearn.datasets, split it into train/test sets (80/20), train a KNeighborsClassifier with k=5, and print the test accuracy.
