@@ -23,5 +23,5 @@ relationship for input and output
 Programming Questions
 
 1)Using the study_vs_perf dataset from class (Hours vs Performance), fit a LinearRegression model and predict the performance for someone who studies 20 hours. Print the predicted value.
-
+Predicted marks: $96.29
 2)Load the load_wine dataset from sklearn.datasets, split it into train/test sets (80/20), train a KNeighborsClassifier with k=5, and print the test accuracy.
